@@ -1,6 +1,5 @@
 import ActionTypes from "../constants/ActionTypes";
 
-
 export default function CounterReducer(state = 1, action) {
 
   switch (action.type) {

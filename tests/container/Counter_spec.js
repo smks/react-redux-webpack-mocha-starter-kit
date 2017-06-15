@@ -7,6 +7,7 @@ import {
   renderIntoDocument,
   scryRenderedDOMComponentsWithClass,
   scryRenderedDOMComponentsWithTag,
+  ReactTestUtils,
   Simulate
 } from "react-addons-test-utils";
 import {Provider} from "react-redux";

@@ -46,6 +46,7 @@
   },
   "dependencies": {
     "autoprefixer": "^6.3.6",
+    "chai-immutable": "^1.6.0",
     "classname": "0.0.0",
     "immutable": "^3.8.1",
     "keymirror": "^0.1.1",
